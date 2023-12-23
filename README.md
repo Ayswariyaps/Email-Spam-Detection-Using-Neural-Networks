@@ -1,4 +1,4 @@
-# Spam-Detection-Using-Neural-Networks
+# Email Spam-Detection-Using-Neural-Networks
 
 This repository contains the implementation and comparative study of various neural network models for email spam detection. With the increasing number of internet users and the rapid growth of digital communication, email has become one of the most important means of communication. However, along with the growing number of users, spam emails have also been on the rise, posing a common problem on the internet.
 
