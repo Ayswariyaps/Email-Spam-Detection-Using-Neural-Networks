@@ -23,3 +23,4 @@ The models are compared using standard classification metrics:
 4. F1-score
 5. Support
 
+Paper Publication Link: https://www.researchgate.net/publication/379168856_Comparative_Analysis_of_Neural_Network_Models_for_Spam_E-mail_Detection#fullTextFileContent
