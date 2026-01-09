@@ -1,14 +1,25 @@
-# Email Spam-Detection-Using-Neural-Networks
+# Email Spam Detection using Neural Networks
 
-This repository contains the implementation and comparative study of various neural network models for email spam detection. With the increasing number of internet users and the rapid growth of digital communication, email has become one of the most important means of communication. However, along with the growing number of users, spam emails have also been on the rise, posing a common problem on the internet.
+This repository contains a comparative study of neural network models for email spam detection. With the rapid growth of digital communication, spam emails have become a serious issue, often leading to privacy breaches, financial loss, and malware attacks.
 
-Spam emails have a significant impact on users, as deceptive emails from spammers can trick people into sharing personal information or unknowingly downloading harmful software by pretending to be genuine messages. Falling for these scams can lead to various consequences, ranging from financial losses to the exposure of personal data.
+To address this problem, the project evaluates multiple deep learning architectures to identify spam emails effectively.
 
-To address this issue, numerous machine learning and deep learning models have been proposed in research papers. This project presents a comparative study of the following neural network models:
+**Objective**
 
-Capsule Networks (CAPSNET)
-Convolutional Neural Networks (CNN)
-Recurrent Neural Networks (RNN)
-Transformer model - RoBERTa
+The goal of this study is to analyze and compare the performance of different neural network models and identify the most effective approach for email spam detection.
 
-The goal of this study is to determine the best-performing model for email spam detection. The capacity of each model is evaluated by assessing various performance metrics, including F1 score, recall, precision, accuracy, and support.
+**Models Compared**
+1. Capsule Networks (CapsNet)
+2. Convolutional Neural Networks (CNN)
+3. Recurrent Neural Networks (RNN)
+4. Transformer-based model (RoBERTa)
+
+**Evaluation Metrics**
+
+The models are compared using standard classification metrics:
+1. Accuracy
+2. Precision
+3. Recall
+4. F1-score
+5. Support
+
